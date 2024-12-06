@@ -1,4 +1,4 @@
-import WorkTimeCalculator from './components/WorkTimeCalculator'
+import WorkTimeCalculator from "@/components/WorkTimeCalculator";
 
 export default function Home() {
   return (
